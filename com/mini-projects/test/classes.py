@@ -7,7 +7,7 @@ class Robot:
     def introduce(self):
         print("My name is " + self.name)
 
-r1 = Robot("tiya", "blue", 25)
+r1 = Robot("mini-projects", "blue", 25)
 r2 = Robot("anurag", "red", 200)
 
 r1.introduce()
